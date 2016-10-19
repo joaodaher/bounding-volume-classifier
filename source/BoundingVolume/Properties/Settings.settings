@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BoundingVolume.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dataset_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Cloud\SkyDrive\Documents\UNIFEI\TCC\Dataset\glass\glass.data</Value>
+    </Setting>
+    <Setting Name="ids_dataset_dir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Cloud\SkyDrive\Documents\UNIFEI\TCC\Dataset\NSL_KDD\</Value>
+    </Setting>
+    <Setting Name="ids_train_file" Type="System.String" Scope="User">
+      <Value Profile="(Default)">training.txt</Value>
+    </Setting>
+    <Setting Name="ids_test_dir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">part</Value>
+    </Setting>
+    <Setting Name="ids_cat_file" Type="System.String" Scope="User">
+      <Value Profile="(Default)">training_attack_types.txt</Value>
+    </Setting>
+    <Setting Name="xFold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ids_dataset_full" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kddcup.data.corrected</Value>
+    </Setting>
+    <Setting Name="ids_mode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
